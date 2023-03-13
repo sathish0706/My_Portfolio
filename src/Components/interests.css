@@ -1,0 +1,22 @@
+.interests {
+  color: rgb(179, 245, 182);
+  font-size: 80px;
+  font-style: italic;
+  text-align: center;
+}
+.interest-content {
+  font-size: 40px;
+  padding: 30px;
+  color: blueviolet;
+  font-style: oblique;
+  margin-top: 30px;
+}
+.interest-content1 {
+  font-size: 40px;
+  padding: 30px;
+  color: rgb(226, 43, 104);
+  font-style: oblique;
+}
+.interest-container {
+  margin-top: 50px;
+}

@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 2000;
+}
+
+.header-1{
+    display: flex;
+    flex: 0.4;
+
+}
+.header-1 > h1 > span{
+    color: orange;
+}
+.header-2{
+    display: flex;
+    flex: 0.6;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.header-2 > a > h4{
+    cursor: pointer;
+    font-size: 18px;
+    padding: 8px 20px;
+    transition: transform 200ms ease-in-out;
+    padding-bottom: 10px;
+}
+.header-2 > a > h4:hover{
+    transform: scale(1.1);
+    background-color: #f64c08;
+    letter-spacing: 2px;
+    cursor: pointer;
+}

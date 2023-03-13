@@ -1,0 +1,47 @@
+.skillset {
+  color: white;
+}
+.skills {
+  display: flex;
+  justify-content: space-around;
+}
+.skill-img > img {
+  width: 500px;
+  height: 440px;
+  object-fit: cover;
+  margin: 100px;
+  box-shadow: inset 0 0 0 2000px rgb(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.skilset-containet {
+  margin: 100px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.skillset > h3 {
+  margin-bottom: 10px;
+}
+
+.skillset1 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: green;
+}
+
+.skillset2 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: rgb(174, 0, 255);
+}
+
+.skillset3 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: rgb(255, 196, 0);
+}
+.skillset4 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: rgb(255, 115, 0);
+}
+.skillset5 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: rgb(255, 0, 221);
+}
+.skillset6 > span > .css-qhoknl-MuiLinearProgress-bar1 {
+  background-color: rgb(255, 0, 64);
+}

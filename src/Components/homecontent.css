@@ -1,0 +1,43 @@
+.content {
+  color: white;
+}
+
+.content-container {
+  position: absolute;
+  top: 300px;
+  right: 150px;
+}
+.content-container > p {
+  letter-spacing: 1px;
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 3px;
+}
+.content-container > a > button {
+  margin-bottom: 30px;
+  text-align: left;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: green;
+  transition: 20ms;
+  color: white;
+  font-weight: 300;
+  border: none;
+}
+.content-container > a > button:hover {
+  background-color: rgb(255, 81, 0);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.content-container > h1 {
+  font-size: 50px;
+  letter-spacing: 2px;
+  position: relative;
+  border-right: 2px solid white;
+  overflow: hidden;
+}
+
+.content-container > h1 > span {
+  color: rgb(117, 4, 4);
+}

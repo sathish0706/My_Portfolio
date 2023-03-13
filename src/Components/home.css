@@ -1,0 +1,15 @@
+.home-container {
+  background: url("https://wallpaperaccess.com/full/5651980.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 0 2000px rgb(0, 0, 0, 0.5);
+}
+@media screen and (min-width: 600px) {
+  .home-container {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+  }
+}
