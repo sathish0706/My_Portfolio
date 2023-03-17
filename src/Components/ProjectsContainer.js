@@ -53,7 +53,8 @@ const ProjectsContainer = () => {
           <h1>Projects</h1>
           <h3>admin Email : admin123@gmail.com</h3>
           <h3>admin password: admin@1234</h3>
-          <h3>user Name : User</h3>
+          <h3>movieApp user Name : User</h3>
+          <h3>movieApp password: user012345</h3>
           <h3>user Email : user01@gmail.com</h3>
           <h3>user password: user012345</h3>
           <br />
