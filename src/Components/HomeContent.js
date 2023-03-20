@@ -12,7 +12,7 @@ const HomeContent = () => {
         </h1>
         <p>A Professional Web Developer</p>
         <a
-          href="https://drive.google.com/file/d/15fOrPO7bCFAU_g907gTyfzAkPPJ-gWLV/view"
+          href="https://drive.google.com/file/d/1HEg-CD2FBsTo0KP8J2orpr5sp8-idGZR/view?usp=share_link"
           target="_blank"
           rel="noreferrer"
         >
