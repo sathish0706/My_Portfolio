@@ -8,8 +8,8 @@ const ProjectsContainer = () => {
     {
       img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAMAAAC93eDPAAAAYFBMVEX////98/Pwq6voenvodXbzwMHma2z0w8P87u7++fnkWlzwrq7pgYL41tflY2T76en20NDncXHslZb1ysr54ODskZHjUVLxtLTuoaHyubn42tnqh4jtmpnkVljrjIzvpqbw13b/AAACHklEQVR4nO2Y286jIBRGoSInEcVTrdb2/d9ywI6VTDL9b6pMMt+6wHQ3rYsNbERCAAAAAAAAAAAAAAAAAPx7CMOaKqlBofvC8ZQOlc596/qECrkOrXA0ncJtVchdspGoRmaFv2bc5GkM8iG7PYf71XuMmskEBpI/g8dswqKs+JhAobJluKhX9x+PBAqU3cJFZOsne02gQJomtE8eVmSlpxQKV+4blfGQjJanmI6kHnz/7663nS/URqVQUEtJ+6Uls83JnGJBdHXrjGM+A+RiMz7W5dl5uHPumONu7KSYOWfMWVeeajANopJVV1+c5rbPp0rK7nHufOiGepNp9O95MM9nGvhyoItth57sw3e/M2FlnEph2VW+Ml/bcmpsdrZB2Kq1np95OYmG84WJJIWBtKOxy6JZX5yfgR0qpUzTfwD+c8Ql4rouw/oZx9Zy3YnoJ7cvH3DuLNsx6/2KOMTW+12yvUYoK/7yX4cSP78pfphC+6EYFobUW/qPU2jshyH2WeitPFZBjbr+8LVXoOY1LQ5TGIfdgJYR3aZAlHsdcQ9S6G30iNosemfoNgWizDoWhyiou41HQckY8lYgdA5vnw5R+DwPdgVCQ5k4QuG+/GTwrgv+pCkPUJDmR4O9NNGHIN9WUJRK+mYL0T9Ce3VU3x+I3rGI9YaXOOSO3yPKPKJdQ10cej3DV/Gxsk74NhIAAAAAAAAAAAAAAAAACPwCLTEYeXgdba4AAAAASUVORK5CYII=",
       title: "Zen App Clone",
-      link: "https://main--superlative-lollipop-4cae50.netlify.app",
-      flink: "https://github.com/sathish0706/Capstone_Frontend",
+      link: "https://main--polite-bombolone-162787.netlify.app",
+      flink: "https://github.com/sathish0706/capstone-Frontend",
       blink: "https://github.com/sathish0706/Capstone_Backend",
       description:
         "This app serves as a bridge to link mentors and learners together, fostering educational opportunities all around",
